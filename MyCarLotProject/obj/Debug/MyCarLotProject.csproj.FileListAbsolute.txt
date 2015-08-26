@@ -1,0 +1,6 @@
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Debug\MyCarLotProject.exe.config
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Debug\MyCarLotProject.exe
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Debug\MyCarLotProject.pdb
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.csprojResolveAssemblyReference.cache
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.exe
+c:\users\gatis\documents\visual studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.pdb

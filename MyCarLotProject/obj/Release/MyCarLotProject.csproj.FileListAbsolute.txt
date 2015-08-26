@@ -1,0 +1,6 @@
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Release\MyCarLotProject.exe.config
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Release\MyCarLotProject.exe
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Release\MyCarLotProject.pdb
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyCarLotProject.exe
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyCarLotProject.pdb
+c:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyCarLotProject.csprojResolveAssemblyReference.cache

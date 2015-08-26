@@ -1,0 +1,3 @@
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyCarLotProject.exe
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Release\MyCarLotProject.pdb

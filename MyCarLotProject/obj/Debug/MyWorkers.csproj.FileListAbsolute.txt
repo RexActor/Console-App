@@ -1,0 +1,8 @@
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\bin\Debug\MyCarLotProject.exe.config
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.exe
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.pdb
+C:\Users\Gatis\Documents\Visual Studio 2015\Projects\MyCarLotProject\MyCarLotProject\obj\Debug\MyWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Gatis\Documents\MyCarLotProject\MyCarLotProject\bin\Debug\MyCarLotProject.exe.config
+C:\Users\Gatis\Documents\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.exe
+C:\Users\Gatis\Documents\MyCarLotProject\MyCarLotProject\obj\Debug\MyCarLotProject.pdb
+C:\Users\Gatis\Documents\MyCarLotProject\MyCarLotProject\obj\Debug\MyWorkers.csprojResolveAssemblyReference.cache

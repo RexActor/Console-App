@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParkingLot>
+  <Cars PlateNumber="KI442">
+    <Brand>BMW</Brand>
+    <Model>740IL</Model>
+    <Year>2002</Year>
+    <Color>BLACK</Color>
+    <Price>44224</Price>
+  </Cars>
+</ParkingLot>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParkingLot>
+  <Cars PlateNumber="LO4424">
+    <Brand>BMW</Brand>
+    <Model>740IL</Model>
+    <Year>2010</Year>
+    <Color>SILVER</Color>
+    <Price>4418</Price>
+  </Cars>
+  <Cars PlateNumber="PL442">
+    <Brand>VOLVO</Brand>
+    <Model>S90</Model>
+    <Year>2000</Year>
+    <Color>SILVER</Color>
+    <Price>4284</Price>
+  </Cars>
+  <Cars PlateNumber="KI442">
+    <Brand>VAZ</Brand>
+    <Model>900</Model>
+    <Year>1980</Year>
+    <Color>SILVER</Color>
+    <Price>440</Price>
+  </Cars>
+  <Cars PlateNumber="LO44244">
+    <Brand>ZAZ</Brand>
+    <Model>910</Model>
+    <Year>1990</Year>
+    <Color>GOLD</Color>
+    <Price>2</Price>
+  </Cars>
+  <Cars PlateNumber="LO442">
+    <Brand>ZAZ</Brand>
+    <Model>910</Model>
+    <Year>1980</Year>
+    <Color>WHITE</Color>
+    <Price>24244</Price>
+  </Cars>
+</ParkingLot>
